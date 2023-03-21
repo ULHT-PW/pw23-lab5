@@ -92,7 +92,10 @@ Durante as próximas semanas deverá recolher algum material. Organize-o para j�
       * escolas no secundário
       * certificados
    * licenciatura, pagina que apresenta a lista de cadeiras do curso, organizada por semestre e anos. Quando clicada uma cadeira, aparece informação relativamente a: nome, ano, semestre, ECTS, ano letivo frequentado, topicos abordados, ranking de 1 a 5 estrelas (indicando se gostou ou não), professores (da classe Pessoa com campos nome e link para a sua pagina da lusofona e no linkedin), link para página da cadeira (se existir), lista de projetos realizados (classe projeto)
-   * Aptidões e competências pessoais (com atributos titulo, descrição curta, lista de projetos (Projeto) realizados onde foi aplicada essa competência caso se aplique, lista de disciplinas (Disciplina) onde foi trabalhada essa competência caso se aplique)
+
+   * **licenciatura** será uma pagina do seu portfolio que apresenta a lista de cadeiras do seu curso, organizada por semestre e anos. Deverá apresentar os seguintes atributos: nome, ano, semestre, ECTS, ano letivo frequentado, topicos abordados, ranking de 1 a 5 estrelas (indicando se gostou ou não), professores (da classe Pessoa com campos nome e link para a sua pagina da lusofona e no linkedin), link para página da cadeira (se existir), lista de projetos realizados (classe projeto). Construa em HTML & CSS uma pagina licenciatura que liste 3 cadeiras, formatando devidamente os atributos identificados (para já, podem ter texto inventado). Esse template CSS poderá depois ser replicado nas restantes páginas. use por exemplo este formato de [items isolados](https://codepen.io/LucioStuder/pen/MWrKXdy), ou como [aqui](https://github.com/ULHT-PW/pw-lab4#1-capitais-europeias-com-flexbox) com imagens
+
+   * **Aptidões e competências pessoais** (com atributos titulo, descrição curta, lista de projetos (Projeto) realizados onde foi aplicada essa competência caso se aplique, lista de disciplinas (Disciplina) onde foi trabalhada essa competência caso se aplique)
       * [Técnicas]( https://www.e-konomista.pt/competencias-tecnicas/): 
       * linguagens de programação ou tecnologias, relatórios word, apresentações powerpoint, realização de videos, protótipos
       * [Organizativas]( https://www.e-konomista.pt/competencias-de-organizacao/)
@@ -104,9 +107,12 @@ Durante as próximas semanas deverá recolher algum material. Organize-o para j�
          * hobbies
          * voluntariado
 
-* **projetos**
+* **Projetos**
    * realizados por mim: lista de projetos realizados, com atributos: titulo, descrição até 500 carateres, imagem, ano de realização, cadeira (classe Cadeira, caso tenha sido projeto associado a uma cadeira), participantes (da classe Pessoa, da classe Pessoa com atributos nome e link para a sua pagina no linkedin, e link para a aplicação portfolio do projeto PW), link para repositorio GitHub, link para video no youtube, tecnologias usadas, competencias (classe Competencia)
    * trabalhos de fim de curso: lista de 6 Trabalhos finais de Curso (TFCs) de anos passados realizados por colegas seus que achou interessantes, onde TFC tem atributos: titulo, autor (multiplos), orientador (multiplos), ano de realização, sumário, resumo até 500 carateres, link para relatório, links para repositório github e vídeo no Youtube, se existentes. Será facultada uma pasta com relatórios de TFC dos últimos anos para escolher.
+   * Construa em HTML & CSS uma pagina projetos que liste 3 projetos, formatando devidamente os atributos identificados (para já, podem ter texto inventado). Esse template CSS poderá depois ser replicado nas restantes páginas. Use por exemplo este formato de [items isolados](https://codepen.io/LucioStuder/pen/MWrKXdy), ou como [aqui](https://github.com/ULHT-PW/pw-lab4#1-capitais-europeias-com-flexbox) com imagens
+
+
 
 * **Programação Web**
    * Tecnologias: Falar das seguintes Tecnologias, com os atributos: nome (por extenso), acrónimo (caso exista, e.g., CSS para Cascade Style Sheet), ano de criação, criador, logotipo, link para site oficial, descrição das principais características. 
@@ -135,23 +141,4 @@ Durante as próximas semanas deverá recolher algum material. Organize-o para j�
    * ano
    * universidade
    * logotipo
-
-
-
-
-
-
-
-## 9. Página Licenciatura
-1. licenciatura será uma pagina do seu portfolio que apresenta a lista de cadeiras do seu curso, organizada por semestre e anos. Deverá apresentar os seguintes atributos: nome, ano, semestre, ECTS, ano letivo frequentado, topicos abordados, ranking de 1 a 5 estrelas (indicando se gostou ou não), professores (da classe Pessoa com campos nome e link para a sua pagina da lusofona e no linkedin), link para página da cadeira (se existir), lista de projetos realizados (classe projeto)
-1. Construa em HTML & CSS uma pagina licenciatura que liste 3 cadeiras, formatando devidamente os atributos identificados (para já, podem ter texto inventado). Esse template CSS poderá depois ser replicado nas restantes páginas.
-1. use por exemplo este formato de [items isolados](https://codepen.io/LucioStuder/pen/MWrKXdy), ou como [aqui](https://github.com/ULHT-PW/pw-lab4#1-capitais-europeias-com-flexbox) com imagens
-
-## 10. Página Projetos
-1. a página terá uma lista de projetos realizados, com atributos: titulo, descrição até 500 carateres, imagem, ano de realização, cadeira (classe Cadeira, caso tenha sido projeto associado a uma cadeira), participantes (da classe Pessoa, da classe Pessoa com atributos nome e link para a sua pagina no linkedin, e link para a aplicação portfolio do projeto PW), link para repositorio GitHub, link para video no youtube, tecnologias usadas, competencias (classe Competencia)
-1. Construa em HTML & CSS uma pagina projetos que liste 3 projetos, formatando devidamente os atributos identificados (para já, podem ter texto inventado). Esse template CSS poderá depois ser replicado nas restantes páginas.
-2. use por exemplo este formato de [items isolados](https://codepen.io/LucioStuder/pen/MWrKXdy), ou como [aqui](https://github.com/ULHT-PW/pw-lab4#1-capitais-europeias-com-flexbox) com imagens
-
-
-
  
