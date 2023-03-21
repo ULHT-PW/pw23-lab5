@@ -45,6 +45,12 @@ Objetivos especificos desta primeira parte:
 * de espectativas do que gostaria de fazer quando acabar o curso;
 * de hobbies.
 
+## JavaScript
+1. Crie um botão darkmode, posicionado no cabeçalho da sua página, para mudar as cores dos vários elementos (fundo, texto, títulos etc) de forma a ficar em "darkmode". Se voltar a premir, deverá repor a versão luminosa. Use um icon de [font Awesome](https://fontawesome.com). Pode usar uma lua e um sol, como botão. 
+1. Crie uma calculadora. Use um elemento `input` para pedir para inserir uma expressão aritmética, calcule o valor resultante com a função [`eval()`](https://www.w3schools.com/js/js_date_methods.asp), e apresente por baixo, num outro elemento, o resultado.
+1. Peça ao utilizador para inserir o nome e coloque-o em pelo menos 3 sítios o nome inserido.
+1. Insira a data do dia de hoje (21 Março 2023) num local à sua escolha da página. Para tal, utilize o método `Date()` [[1]](https://www.w3schools.com/js/js_date_methods.asp)
+
 ## Estrutura do seu Portfolio 
 
 O seu portfolio, no final do semestre, poderá ter uma estrutura como em baixo, ou diferente, mas adequadamente estruturada como uma árvore, agrupando de forma coerente conteúdos. A navegação deverá ser clara através do menu sempre disponível. Exemplo de estrutura:
