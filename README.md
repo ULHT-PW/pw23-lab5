@@ -9,7 +9,7 @@
 
 ### Objetivos 
 
-* Desenvolver uma aplicação Web com o seu portfolio que demonstre conhecimentos avançados de HTML, CSS e JS que adquiriu. 
+* Desenvolver uma aplicação Web com o seu portfolio que demonstre conhecimentos avançados de HTML, CSS e JS que adquiriu. Website dinâmico e responsivo que se adequa tanto a telemóvel como PC.
 * Conceber de forma criativa e original o seu website e seu design, desenvolvendo tudo por si. Não deverá usar templates da Internet nem Bootstrap. 
 * Aplicar as técnicas que tem vindo a aprender. Os requisitos técnicos serão publicados à parte, grelha que será usada para avaliação dos projetos. Terá igualmente uma página com a especificação das técnicas usadas.
 
@@ -17,8 +17,8 @@ Objetivos especificos desta primeira parte:
 * Conceber um template que definirá o visual da sua aplicação. Trabalhar o HTML, estilização com CSS e funcionalidades JavaScript. Pode usar como conteúdo frases em latim [daqui](https://pl.lipsum.com/). Posteriormente substituirá refinando os seus conteúdos para a construir.
 * Estruturar um conjunto de páginas, que poderá navegar através de um menu.
 * A aplicação deverá ter um conjunto de páginas estruturadas. 
-* Algumas páginas e conteúdos serão sugeridos para aplicar técnicas que aprenderá na segunda parte do projeto (e.g., armazenamento de informação numa base de dados). 
-* O prazo de entrega da 1ª parte do projeto será dia 14 de abril, sendo avaliado posteriormente.
+* Algumas páginas e conteúdos serão sugeridos, para garantir que aplica técnicas que aprenderá na segunda parte do projeto (e.g., armazenamento de informação numa base de dados). 
+* O prazo de entrega da 1ª parte do projeto será dia 14 de abril.
 
 ### Recomendações
 * Explore o seguinte material:
@@ -47,7 +47,7 @@ Objetivos especificos desta primeira parte:
 
 ## Estrutura do seu Portfolio 
 
-O seu portfolio, no final do semestre, poderá ter uma estrutura como em baixo, ou diferente, mas adequadamente estruturada como uma árvore agrupando de forma coerente conteúdos:
+O seu portfolio, no final do semestre, poderá ter uma estrutura como em baixo, ou diferente, mas adequadamente estruturada como uma árvore, agrupando de forma coerente conteúdos. A navegação deverá ser clara através do menu sempre disponível. Exemplo de estrutura:
 
 * landing page
 * Sobre mim
