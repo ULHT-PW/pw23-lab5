@@ -79,12 +79,10 @@ O seu portfolio, no final do semestre, poderá ter uma estrutura como em baixo:
 Nota: 
 * Cada tópico conterá uma lista de elementos a incluir (por exemplo, licenciatura terá uma lista de cadeiras). A informação de cada item será guardada numa base de dados, a desenvolve mais à frente.
 * Cada página irá listar um conjunto de items (cadeiras, projetos, TFCs) que têmassociados um titulo, imagem, texto e mais alguns atributos. Pense num layout de items independentes / tipo postais, como feito no laboratório anterior lab.5.
+* Construa em HTML & CSS uma pagina que liste 3 cadeiras com a informação especificada em baixo (para já, podem ter texto inventado). Esse template poderá depois ser aplicado às restantes páginas, a construir mais adiante.
 
 
-1. Construa em HTML & CSS uma pagina que liste 3 cadeiras com a informação especificada em baixo (para já, podem ter texto inventado). Esse template poderá depois ser aplicado às restantes páginas, a construir mais adiante.
-
-
-## 11. Conteúdos dos vários items
+## Conteúdos dos vários items
 
 Durante as próximas semanas deverá recolher algum material. Organize-o para já em pastas. Este depois será inserido na base de dados que construirá. Apresentam-se os tipos de conteúdos que poderá congregar para cada item de cada tópico.
 
@@ -95,11 +93,11 @@ Durante as próximas semanas deverá recolher algum material. Organize-o para j�
       * certificados
    * licenciatura, pagina que apresenta a lista de cadeiras do curso, organizada por semestre e anos. Quando clicada uma cadeira, aparece informação relativamente a: nome, ano, semestre, ECTS, ano letivo frequentado, topicos abordados, ranking de 1 a 5 estrelas (indicando se gostou ou não), professores (da classe Pessoa com campos nome e link para a sua pagina da lusofona e no linkedin), link para página da cadeira (se existir), lista de projetos realizados (classe projeto)
    * Aptidões e competências pessoais (com atributos titulo, descrição curta, lista de projetos (Projeto) realizados onde foi aplicada essa competência caso se aplique, lista de disciplinas (Disciplina) onde foi trabalhada essa competência caso se aplique)
-         * [Técnicas]( https://www.e-konomista.pt/competencias-tecnicas/): 
-         * linguagens de programação ou tecnologias, relatórios word, apresentações powerpoint, realização de videos, protótipos
-         * [Organizativas]( https://www.e-konomista.pt/competencias-de-organizacao/)
-         * [Sociais](https://www.e-konomista.pt/aptidoes-e-competencias-sociais)
-         * Linguísticas. lista de linguas estrangeiras faladas, com indicação de nível (proficiente, independente ou elementar), e referencia se existir a certificação obtida ou outra explicação (lingua materna, viveu noutro país)
+      * [Técnicas]( https://www.e-konomista.pt/competencias-tecnicas/): 
+      * linguagens de programação ou tecnologias, relatórios word, apresentações powerpoint, realização de videos, protótipos
+      * [Organizativas]( https://www.e-konomista.pt/competencias-de-organizacao/)
+      * [Sociais](https://www.e-konomista.pt/aptidoes-e-competencias-sociais)
+      * Linguísticas. lista de linguas estrangeiras faladas, com indicação de nível (proficiente, independente ou elementar), e referencia se existir a certificação obtida ou outra explicação (lingua materna, viveu noutro país)
    * interesses (com atributos titulo, descrição, fotografia e link (e.g., clube de fotografia) 
          * outras atividades
          * desporto
