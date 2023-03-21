@@ -45,11 +45,14 @@ Objetivos especificos desta primeira parte:
 * de espectativas do que gostaria de fazer quando acabar o curso;
 * de hobbies.
 
-## JavaScript
+## JavaScript Playground
+Integre os seguintes exercícios JavaScript e integre-os no seu site 
 1. Crie um botão darkmode, posicionado no cabeçalho da sua página, para mudar as cores dos vários elementos (fundo, texto, títulos etc) de forma a ficar em "darkmode". Se voltar a premir, deverá repor a versão luminosa. Use um icon de [font Awesome](https://fontawesome.com). Pode usar uma lua e um sol, como botão. 
-1. Crie uma calculadora. Use um elemento `input` para pedir para inserir uma expressão aritmética, calcule o valor resultante com a função [`eval()`](https://www.w3schools.com/js/js_date_methods.asp), e apresente por baixo, num outro elemento, o resultado.
-1. Peça ao utilizador para inserir o nome e coloque-o em pelo menos 3 sítios o nome inserido.
-1. Insira a data do dia de hoje (21 Março 2023) num local à sua escolha da página. Para tal, utilize o método `Date()` [[1]](https://www.w3schools.com/js/js_date_methods.asp)
+1. Crie uma calculadora. Use um elemento `input` para pedir para inserir uma expressão aritmética. Associe um botão que, quando premido calcula o valor da expressão usando a função [`eval()`](https://www.w3schools.com/js/js_date_methods.asp). Deverá apresentar o resultado num elemento em baixo do input. Crie um segundo botao que permita apagar o resultado.
+1. Insira uma imagem que goste. Peça ao utilizador para escrever uma frase que a imagem o tenha inspirado, e coloque-a por cima da fotografia. 
+1. Peça ao utilizador para inserir o nome e coloque-o em pelo menos 3 sítios diferentes.
+1. Insira a data do dia de hoje (no formato '21 de março, 2023') num local à sua escolha da página. Para tal, utilize o método `Date()` [[1]](https://www.w3schools.com/js/js_date_methods.asp)
+1. utilize o evento onmouseover e onmouseout para criar ações.
 
 ## Estrutura do seu Portfolio 
 
