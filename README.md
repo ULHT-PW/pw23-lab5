@@ -7,13 +7,17 @@
 * O seu projeto de Programação Web será desenvolver o seu porfolio. Será um website que ficará online e será a sua carta de apresentação, onde poderá mostrar o que aprendeu, projetos que desenvolveu no curso e não só, e demonstrar as suas aptidões de programação Web. 
 * Este projeto tem sido muito valorizado em entrevistas de emprego de colegas vossos, tendo possibilitado oportunidades de emprego muito interessantes. Vale a pena esmerarem-se nele a partir de agora e até ao final do curso, atualizando seus conteúdos. O projeto será realizado por partes, onde irão aplicar aspectos aprendidos. 
 
-### Objetivo 
+### Objetivos 
 
-* Desenvolver, com os conhecimentos avançados de HTML, CSS e JS que adquiriu, uma aplicação Web para o seu portfolio.
-* Para já preocupe-se com a estrutura HTML e estilização CSS e funcionalidades JavaScript. Pode até usar como conteúdo frases em latim [daqui](https://pl.lipsum.com/).
-* Esta aplicação deverá permitir armazenar informação sobre o seu protfolio, estndo devidamente estruturada.
-* Gradualmente irá recolher conteúdos para a construir, podendo ser refinados ao longo das próximas semanas.
-* Os requisitos técnicos serão publicados esta semana, grelha que será usada para avaliação dos projetos.
+* Desenvolver uma aplicação Web com o seu portfolio que demonstre conhecimentos avançados de HTML, CSS e JS que adquiriu. 
+* Conceber de forma criativa e original o seu website e seu design, desenvolvendo tudo por si. Não deverá usar templates da Internet nem Bootstrap. 
+* Aplicar as técnicas que tem vindo a aprender. Os requisitos técnicos serão publicados à parte, grelha que será usada para avaliação dos projetos. Terá igualmente uma página com a especificação das técnicas usadas.
+
+Objetivos especificos desta primeira parte:
+* Conceber um template que definirá o visual da sua aplicação. Trabalhar o HTML, estilização com CSS e funcionalidades JavaScript. Pode usar como conteúdo frases em latim [daqui](https://pl.lipsum.com/). Posteriormente substituirá refinando os seus conteúdos para a construir.
+* Estruturar um conjunto de páginas, que poderá navegar através de um menu.
+* A aplicação deverá ter um conjunto de páginas estruturadas. 
+* Algumas páginas e conteúdos serão sugeridos para aplicar técnicas que aprenderá na segunda parte do projeto (e.g., armazenamento de informação numa base de dados). 
 * O prazo de entrega da 1ª parte do projeto será dia 14 de abril, sendo avaliado posteriormente.
 
 ### Recomendações
@@ -43,7 +47,7 @@
 
 ## Estrutura do seu Portfolio 
 
-O seu portfolio, no final do semestre, poderá ter uma estrutura como em baixo:
+O seu portfolio, no final do semestre, poderá ter uma estrutura como em baixo, ou diferente, mas adequadamente estruturada como uma árvore agrupando de forma coerente conteúdos:
 
 * landing page
 * Sobre mim
