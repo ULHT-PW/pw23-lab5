@@ -9,11 +9,10 @@
 
 ### Objetivo 
 
-* Recolher conteúdos para construir o seu portfolio.
-* Desenvolver por si só uma aplicação Web com os conhecimentos avançados de HTML, CSS e JS que adquiriu.
-* Para já preocupe-se com a estrutura HTML e estilização CSS. Use como conteúdo inicial algumas palavras [daqui](https://pl.lipsum.com/)
-
-Os conteúdos podem ser refinados ao longo das próximas semanas.
+* Desenvolver, com os conhecimentos avançados de HTML, CSS e JS que adquiriu, uma aplicação Web para o seu portfolio.
+* Para já preocupe-se com a estrutura HTML e estilização CSS e funcionalidades JavaScript. Pode até usar como conteúdo frases em latim [daqui](https://pl.lipsum.com/).
+* Esta aplicação deverá permitir armazenar informação sobre o seu protfolio, estndo devidamente estruturada.
+* Gradualmente irá recolher conteúdos para a construir, podendo ser refinados ao longo das próximas semanas.
 * Os requisitos técnicos serão publicados esta semana, grelha que será usada para avaliação dos projetos.
 * O prazo de entrega da 1ª parte do projeto será dia 14 de abril, sendo avaliado posteriormente.
 
@@ -58,6 +57,7 @@ O seu portfolio, no final do semestre, poderá ter uma estrutura como em baixo:
       * sociais
       * linguisticas
    * Interesses e hobbies
+   * Experiencia profissional
 * projetos 
    * realizados em diversas UCs
    * realizados por mim 
@@ -66,7 +66,6 @@ O seu portfolio, no final do semestre, poderá ter uma estrutura como em baixo:
    * tecnologias existentes
       * front-end
       * back-end
-      * outras 
    * laboratórios 
    * notícias    
 * Blog
@@ -77,14 +76,13 @@ O seu portfolio, no final do semestre, poderá ter uma estrutura como em baixo:
 * Rodapé
 
 Nota: 
-* Cada tópico conterá uma lista de elementos a incluir (por exemplo, licenciatura terá uma lista de cadeiras). A informação de cada item será guardada numa base de dados, a desenvolve mais à frente.
-* Cada página irá listar um conjunto de items (cadeiras, projetos, TFCs) que têmassociados um titulo, imagem, texto e mais alguns atributos. Pense num layout de items independentes / tipo postais, como feito no laboratório anterior lab.5.
-* Construa em HTML & CSS uma pagina que liste 3 cadeiras com a informação especificada em baixo (para já, podem ter texto inventado). Esse template poderá depois ser aplicado às restantes páginas, a construir mais adiante.
+*  Muitos dos tópicos consistirão numa lista de elementos (por exemplo, a licenciatura terá uma lista de cadeiras). Esta informação será guardada numa base de dados, a desenvolver mais à frente. Pense num layout de items independentes / tipo postais, como feito nos laboratórios anteriores. Terão associados um titulo, imagem, texto e mais alguns atributos. 
+* Conceba em HTML & CSS um template para listar elementos, e como exemplo crie alguns elementos (para já, podem ter texto inventado). Esse template poderá depois ser aplicado às restantes páginas, a construir mais adiante.
 
 
 ## Conteúdos dos vários items
 
-Durante as próximas semanas deverá recolher algum material. Organize-o para já em pastas. Este depois será inserido na base de dados que construirá. Apresentam-se os tipos de conteúdos que poderá congregar para cada item de cada tópico.
+Durante as próximas semanas deverá recolher algum material. Organize-o para já em pastas. Este depois será inserido na base de dados que construirá. Apresentam-se os tipos de conteúdos que poderá congregar para cada item de cada tópico. Podem não incluir alguns, ou escolher outros.
 
 * **Educação**
    * educação, listar Formação, com campos curso, local, período logotipo da instituição
