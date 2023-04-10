@@ -1,6 +1,6 @@
 **UNIVERSIDADE LUSÓFONA DE HUMANIDADES E TECNOLOGIAS**
 
-# Lab 5: Portfolio I ⛅
+# Lab 5/Projeto Parte I: Portfolio I ⛅
 
 ### Enquadramento
 
