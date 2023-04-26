@@ -155,7 +155,7 @@ Durante as próximas semanas deverá recolher algum material. Organize-o para j�
  
  
 # Grelha de avaliação
-A grelha de avaliação avalia o grau de aplicação dos conhecimentos adquiridos sobre HTML, CSS e JavaScript.
+Apresentam-se os aspectos que serão avaliados da aplicação desenvolvida, para aferir o grau de aplicação dos conhecimentos adquiridos sobre HTML, CSS e JavaScript.
 
 ### Páginas HTML
 
@@ -206,4 +206,4 @@ A grelha de avaliação avalia o grau de aplicação dos conhecimentos adquirido
 7.	Design responsivo
 8.	Estilo consistente
 9.	Existem botões com chamadas de ação
-10.	Website criativo
+10. Website criativo
