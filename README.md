@@ -153,3 +153,57 @@ Durante as próximas semanas deverá recolher algum material. Organize-o para j�
    * universidade
    * logotipo
  
+ 
+# Grelha de avaliação
+A grelha de avaliação avalia o grau de aplicação dos conhecimentos adquiridos sobre HTML, CSS e JavaScript.
+
+### Páginas HTML
+
+1.	A aplicação tem um conjunto de páginas estruturadas (elementar só com 2-3 páginas, ou detalhada)
+2.	A aplicação estrutura-se de acordo com o esqueleto apresentado da aplicação final (Apresentação, Educação, Projetos, Programação Web, sobre, contacto)
+3.	A aplicação tem uma hero page
+4.	A aplicação tem um menu de navegação que permite viajar por todas as páginas do site
+5.	Existe uma página que lista um conjunto de items independentes / tipo postais (como feito nos laboratórios anteriores) com título, imagem e texto.
+6.	As páginas HTML utilizam elementos semânticos de HTML 5 (main, nav, article, header, footer), e não apenas div.
+
+###	CSS
+
+1.	A página usa um ficheiro CSS para estilizar as páginas do site
+2.	O ficheiro CSS tem mais de 50 regras
+3.	Existem pelo menos 5 seletores combinados (e.g., div > p, div + p)
+4.	São usados selectores de pseudo-classe e pseudo-elemento
+5.	É usado CSS flex
+6.	É usado CSS grid
+7.	É usada uma media query para alterar o layout do website quando se altera a largura do viewport 
+8.	O layout é responsivo, i.e., se alterar a largura da página os elementos ficam adequadamente reformatados.
+9.	O layout fica corretamente configurado quando visto no telemóvel
+10.	O menu é responsivo ao telemóvel, ficando adequadamente adaptado 
+11.	Existe uma animação feita com keyframes
+12.	Existe um vídeo embebido
+13.	É usado o efeito scrolling parallax
+14.	É utilizada a propriedade transform
+15.	Foi criado um elemento SVG
+16.	Não usa bootstrap ou templates que se percebe que foram copiados da Internet 
+17.	As imagens são leves (abaixo de 200kB) e o site carrega-as rapidamente
+
+### JavaScript
+
+1.	A aplicação tem um botão darkmode que configura o layout do site através dum script
+2.	A aplicação tem uma calculadora implementada por um script 
+3.	A aplicação permite ao utilizador escrever uma frase que fica sobreposta a uma imagem
+4.	A aplicação pede para inserir o nome e coloca-o em pelo menos 3 sítios diferentes
+5.	A aplicação insere numa página a data 
+6.	Existe pelo menos um script que usa o evento onmouseover e onmouseout para criar ações
+
+### Webdesign
+
+1.	Boa navegação
+2.	Boa hierarquia
+3.	Esquema de cores agradável
+4.	Boa organização
+5.	Boa tipografia, com contraste
+6.	São usados espaços em branco
+7.	Design responsivo
+8.	Estilo consistente
+9.	Existem botões com chamadas de ação
+10.	Website criativo
