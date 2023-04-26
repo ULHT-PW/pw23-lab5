@@ -18,7 +18,7 @@ Objetivos especificos desta primeira parte:
 * Estruturar um conjunto de páginas, que poderá navegar através de um menu.
 * A aplicação deverá ter um conjunto de páginas estruturadas. 
 * Algumas páginas e conteúdos serão sugeridos, para garantir que aplica técnicas que aprenderá na segunda parte do projeto (e.g., armazenamento de informação numa base de dados). 
-* O prazo de entrega da 1ª parte do projeto será dia 14 de abril.
+* O prazo de entrega da 1ª parte do projeto será dia 29 de abril.
 
 ### Recomendações
 * Explore o seguinte material:
