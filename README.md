@@ -11,7 +11,7 @@
 
 * Desenvolver uma aplicação Web com o seu portfolio que demonstre conhecimentos avançados de HTML, CSS e JS que adquiriu. Website dinâmico e responsivo que se adequa tanto a telemóvel como PC.
 * Conceber de forma criativa e original o seu website e seu design, desenvolvendo tudo por si. Não deverá usar templates da Internet nem Bootstrap. 
-* Aplicar as técnicas que tem vindo a aprender. Os requisitos técnicos serão publicados à parte, grelha que será usada para avaliação dos projetos. Terá igualmente uma página com a especificação das técnicas usadas.
+* Aplicar as técnicas que tem vindo a aprender. Os requisitos técnicos serão publicados à parte, grelha que será usada para avaliação dos projetos, e que estará apresentada na própria aplicação sob a forma de uma página com a especificação das técnicas usadas.
 
 Objetivos especificos desta primeira parte:
 * Conceber um template que definirá o visual da sua aplicação. Trabalhar o HTML, estilização com CSS e funcionalidades JavaScript. Pode usar como conteúdo frases em latim [daqui](https://pl.lipsum.com/). Posteriormente substituirá refinando os seus conteúdos para a construir.
