@@ -179,7 +179,7 @@ Apresentam-se os aspectos que serão avaliados da aplicação desenvolvida, para
 9.	O layout fica corretamente configurado quando visto no telemóvel
 10.	O menu é responsivo ao telemóvel, ficando adequadamente adaptado 
 11.	Existe uma animação feita com keyframes
-12.	Existe um vídeo embebido
+12.	Existe um vídeo embebido numa iframe
 13.	É usado o efeito scrolling parallax
 14.	É utilizada a propriedade transform
 15.	Foi criado um elemento SVG
